@@ -1,4 +1,4 @@
-# exposiciones
+# Exposiciones
 Repo para exposiciones
 
 ## Herramienta de notas
