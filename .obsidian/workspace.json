@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "cfc3d68ab6f25d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae8c3638f1a16e60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c76208bd6d2b9395",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "exposiciones/01-Obsidian/danielt/README.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c46a1bccfcd097d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "479a59e9f213e1e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6391902605578975",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0ff60aaf4e0cb2bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "ab95795bc74637e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87a0d0f2dc72af10",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f1945950ebc1e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aaf6302683e9ea6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bienvenido"
+            }
+          },
+          {
+            "id": "209722076425f87e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "5450443a371d4993",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "762fdf1e7e3d80bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          },
+          {
+            "id": "3ac9e8ce7c50f455",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6391902605578975",
+  "lastOpenFiles": [
+    "README.md",
+    "01-Obsidian/danielt/README.pdf",
+    "01-Obsidian/danielt",
+    "01-Obsidian",
+    "exposiciones.zip",
+    "exposiciones/01-Obsidian/valen/README-valen.pdf",
+    "exposiciones/01-Obsidian/valen/README-valen.pdf",
+    "exposiciones/01-Obsidian/danielt/README.pdf",
+    "exposiciones/01-Obsidian/valen",
+    "Sin título.md",
+    "readme_valen/exposiciones/01-Obsidian/valen/README.pdf",
+    "Sin nombre",
+    "twitter.png",
+    "screen.png",
+    "reglas 2.md",
+    "portfolio.png",
+    "placeholder.png",
+    "nota.md",
+    "linkedin.png",
+    "readme_valen/twitter.png",
+    "readme_valen/screen.png",
+    "readme_valen/portfolio.png",
+    "readme_valen/placeholder.png",
+    "readme_valen/linkedin.png",
+    "readme_valen/exposiciones/01-Obsidian/DanielB/README_DANIEL.md",
+    "readme_valen/exposiciones/README.md",
+    "readme_valen/README.md",
+    "exposiciones/01-Obsidian/DanielB/README_DANIEL.md",
+    "exposiciones/README.md",
+    "Pasted image portfolio.png.md",
+    "GUÍA - Reglas de Markdown y HTML.md"
+  ]
+}
