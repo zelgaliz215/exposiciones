@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "exposiciones/01-Obsidian/valen/README-valen.pdf"
+                "file": "exposiciones/01-Obsidian/danielt/README.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "README-valen"
+              "title": "README"
             }
           }
         ]
@@ -171,10 +171,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c76208bd6d2b9395",
+  "active": "6391902605578975",
   "lastOpenFiles": [
-    "exposiciones/01-Obsidian/danielt/README.pdf",
     "exposiciones/01-Obsidian/valen/README-valen.pdf",
+    "exposiciones/01-Obsidian/valen/README-valen.pdf",
+    "exposiciones/01-Obsidian/danielt/README.pdf",
     "exposiciones/01-Obsidian/valen",
     "Sin título.md",
     "readme_valen/exposiciones/01-Obsidian/valen/README.pdf",
@@ -198,7 +199,6 @@
     "readme_valen/exposiciones/01-Obsidian/danielt/README.pdf",
     "readme_valen/exposiciones/01-Obsidian/DanielB/README_DANIEL.md",
     "readme_valen/exposiciones/01-Obsidian/danielt",
-    "readme_valen/exposiciones/01-Obsidian/DanielB",
     "readme_valen/exposiciones/README.md",
     "readme_valen/README.md",
     "exposiciones/01-Obsidian/DanielB/README_DANIEL.md",
